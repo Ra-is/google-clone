@@ -1,5 +1,5 @@
 <template>
-    <div>this is a test again {{$store.state.counter}}</div>
+    <div>this is a test again now {{$store.state.counter}}</div>
      <div>this is a test {{$store.state.data}}</div>
 </template>
 
